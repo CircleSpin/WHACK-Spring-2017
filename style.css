@@ -1,0 +1,75 @@
+body {
+	width: 90%;
+	margin:auto;
+	font-family: 'Work Sans', sans-serif, 'light';
+
+}
+
+
+.header-area {
+	color:grey;
+	border: solid 1px black;
+
+}
+
+.row .col-md-8{
+	font-size:8em;
+	text-align: left;
+	color: #fa8072;
+	text-shadow: 2px 2px grey;
+
+}
+
+
+
+.col-md-4{
+	color: grey;
+
+}
+
+button{
+	margin: 1%;
+}
+
+.container{
+	float:left;
+	text-align: center;
+}
+
+.col-md-2{
+	margin: 1% 5% 1% 5%;
+	color:grey;
+}
+
+.label{
+	font-size:2em;
+	color:grey;
+
+}
+
+h1{
+	font-size:4em;
+}
+
+.numcolor{
+	color:#1EC143;
+	font-size:4em;
+
+	
+}
+
+footer{
+	text-align: center;
+	clear:both;
+
+}
+
+
+
+
+
+
+
+
+
+
